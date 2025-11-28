@@ -50,13 +50,8 @@ plt.plot(t,s)
 <img width="696" height="511" alt="image" src="https://github.com/user-attachments/assets/e54d5106-6e41-4afc-8296-fafeec87243d" />
 
 
-
-
-
-
 ## Tabular Column
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e39f5eba-e808-42d3-a14c-8fabd944adec" />
-
 
 
 ## Result
